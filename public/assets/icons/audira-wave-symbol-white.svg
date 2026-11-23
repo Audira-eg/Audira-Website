@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 56" width="96" height="56" role="img" aria-labelledby="wave-title">
+  <title id="wave-title">AUDIRA wave symbol</title>
+  <defs>
+    <linearGradient id="wave-gradient-white" x1="0" y1="0" x2="96" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.72)"/>
+      <stop offset="100%" stop-color="#A9D5EB"/>
+    </linearGradient>
+  </defs>
+  <!-- Primary wave stroke -->
+  <path d="M4 50 Q24 50 32 36 Q40 22 48 6 Q56 22 64 36 Q72 50 92 50"
+        stroke="url(#wave-gradient-white)"
+        stroke-width="3"
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+  <!-- Secondary wave stroke (lighter, subtle) -->
+  <path d="M4 50 Q24 50 32 40 Q40 30 48 22 Q56 30 64 40 Q72 50 92 50"
+        stroke="url(#wave-gradient-white)"
+        stroke-width="1.5"
+        fill="none"
+        stroke-linecap="round"
+        opacity="0.35"/>
+  <!-- Blue accent at peak -->
+  <circle cx="48" cy="6" r="4.5" fill="#A9D5EB"/>
+</svg>

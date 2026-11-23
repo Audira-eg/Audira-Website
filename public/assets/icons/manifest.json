@@ -1,0 +1,24 @@
+{
+  "name": "AUDIRA - Financial Intelligence & Technology Group",
+  "short_name": "AUDIRA",
+  "description": "Integrated financial expertise, technology, and data analytics for businesses in Egypt and GCC.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A0A0A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icons/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

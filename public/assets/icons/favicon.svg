@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="fav-title">
+  <title id="fav-title">AUDIRA</title>
+  <path fill="#0A0A0A" fill-rule="evenodd"
+        d="M50 222 L98 42 L158 42 L210 222 Z
+           M94 178 L162 178 L128 110 Z
+           M124 42 L140 42 L140 90 L124 90 Z"/>
+</svg>
